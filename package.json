@@ -18,7 +18,8 @@
     "uubench": "*",
     "should": "*",
     "less": "*",
-    "uglify-js": "*"
+    "uglify-js": "*",
+    "exec-sync": "*"
   },
   "component": {
     "scripts": {
